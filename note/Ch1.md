@@ -20,4 +20,4 @@ This method, although it is not originally inspired by Bayesian view, is related
 
 Using $\theta \sim beta(2, 2)$ as weak prior information. ( $E[\theta] = 1/2$ ).
 
-<img src="../fig/beta2_2.jpg" width = "75%">
+<img src="fig/beta2_2.jpg" width = "75%">
